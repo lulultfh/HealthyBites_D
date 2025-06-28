@@ -7,6 +7,8 @@ HealthyBites is a smart, tech-powered platform that helps users easily choose, c
 - Unduh dan salin folder proyek ini ke dalam direktori htdocs di XAMPP
 - Buka **phpMyAdmin**, lalu buat database dengan nama **healthybites**
 - Impor file database yang berada di folder **db** dengan nama **healthybites.sql** ke dalam database tersebut
+- Jalankan aplikasi dengan membuka browser dan akses:
+  http://localhost/healthybites/sblmLogin.php
 
 # Author
 This project was created for TI401-Pengembangan Desain Web Course, by:
