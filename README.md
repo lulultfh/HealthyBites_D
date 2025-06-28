@@ -1,6 +1,13 @@
 # HealthyBites
 
-HealthyBites is a smart, tech-powered platform that helps users easily choose, customize, and manage their healthy meals anytime, anywhere. 🥗📲💚
+HealthyBites is a smart, tech-powered platform that helps users easily choose, customize, and manage their healthy meals anytime, anywhere. 📲🥬🍄
+
+# Cara Penggunaan
+- Pastikan kamu sudah menginstal **XAMPP** untuk menjalankan server dan database
+- Unduh dan salin folder proyek ini ke dalam direktori htdocs di XAMPP
+- Unduh file database
+- Buka **phpMyAdmin**, lalu buat database dengan nama **healthybites**
+- Impor file database yang sudah diunduh ke dalam database tersebut
 
 # Author
 This project was created for TI401-Pengembangan Desain Web Course, by:
