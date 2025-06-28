@@ -1,4 +1,4 @@
-# [HealthyBites]
+# HealthyBites
 
 HealthyBites is a smart, tech-powered platform that helps users easily choose, customize, and manage their healthy meals anytime, anywhere. 🥗📲💚
 
