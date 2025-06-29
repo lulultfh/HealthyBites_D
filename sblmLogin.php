@@ -168,21 +168,21 @@
       <div class="team-member">
         <p>Friska Venunza Bayu</p>
         <p>20230140163</p>
-        <a href="https://github.com/lulu" target="_blank">
+        <a href="https://github.com/naxsyambis" target="_blank">
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub">
         </a>
       </div>
       <div class="team-member">
         <p>Dian Fitri Pradini</p>
         <p>20230140177</p>
-        <a href="https://github.com/andi" target="_blank">
+        <a href="https://github.com/dianfitrip" target="_blank">
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub">
         </a>
       </div>
       <div class="team-member">
         <p>Aini Rana Salsabil</p>
         <p>20230140178</p>
-        <a href="https://github.com/siti" target="_blank">
+        <a href="https://github.com/ainiranasalsabil" target="_blank">
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub">
         </a>
       </div>
@@ -196,7 +196,7 @@
       <div class="team-member">
         <p>Putri Aulia Syafira Arif</p>
         <p>20230140194</p>
-        <a href="https://github.com/dewi" target="_blank">
+        <a href="https://github.com/syafiraarif" target="_blank">
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub">
         </a>
       </div>
