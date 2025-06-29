@@ -189,7 +189,7 @@
       <div class="team-member">
         <p>Adila Roisa Santosa</p>
         <p>20230140179</p>
-        <a href="https://github.com/budi" target="_blank">
+        <a href="https://github.com/adilaroisa" target="_blank">
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub">
         </a>
       </div>
