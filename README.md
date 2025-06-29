@@ -11,10 +11,10 @@ HealthyBites is a smart, tech-powered platform that helps users easily choose, c
   http://localhost/healthybites/sblmLogin.php
 
 # Author
-This project was created for TI401-Pengembangan Desain Web Course, by:
-- Friska Venunza Bayu | 20230140163 |
-- Dian Fitri Pradini | 20230140177 |
-- Aini Rana Salsabil | 20230140178 |
-- Adila Roisa Santosa | 20230140179 |
-- Putri Aulia Syafira Arif | 20230140194 |
-- Lu'lu' Luthfiah | 20230140209 |
+This project was created for TI401-Pengembangan Desain Web Course, by Kelompok 2 Class D:
+- Friska Venunza Bayu | 20230140163 | [@naxsyambis](https://github.com/naxsyambis)
+- Dian Fitri Pradini | 20230140177 | [@dianfitrip](https://github.com/dianfitrip)
+- Aini Rana Salsabil | 20230140178 | [@ainiranasalsabil](https://github.com/ainiranasalsabil)
+- Adila Roisa Santosa | 20230140179 | [@adilaroisa](https://github.com/adilaroisa)
+- Putri Aulia Syafira Arif | 20230140194 | [@syafiraarif](https://github.com/syafiraarif)
+- Lu'lu' Luthfiah | 20230140209 | [@lulultfh](https://github.com/lulultfh)
